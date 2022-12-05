@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @agatkax
+
 - 👀 I’m interested in learning to code
 - 🌱 I’m currently learning how to code
 
